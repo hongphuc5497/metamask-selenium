@@ -1,0 +1,11 @@
+{
+  "name": "dxsale-selenium",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@metamask/detect-provider": "^1.2.0",
+    "selenium-webdriver": "^4.0.0-beta.4",
+    "web3": "^1.4.0"
+  }
+}
